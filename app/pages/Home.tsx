@@ -57,7 +57,7 @@ export function Home() {
     return{
     <SafeAreaView 
     style={styles.container}>
-      <Text style={styles.title}>Welcome, Alice
+      <Text style={styles.title}>Welcome, Alexia
 
       </Text>
 
